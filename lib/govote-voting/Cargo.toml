@@ -9,7 +9,7 @@ license = "MPL-2.0"
 
 [dependencies]
 # concordium-std = "*"
-concordium-std = {path = "../../concordium-rust-smart-contracts/concordium-std"}
+concordium-std = "2.0.0"
 
 [features]
 default = ["std"]
